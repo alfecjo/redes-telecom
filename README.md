@@ -3,14 +3,16 @@
 
 # 📡 Rede & Telecom — Comunicação e IoT Aplicada
 
-[![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=for-the-badge)]()
-[![Área](https://img.shields.io/badge/Tema-Telecomunicações_&_IoT-blue?style=for-the-badge)]()
-[![Linguagem](https://img.shields.io/badge/Linguagem-Python-blue?style=for-the-badge)](https://www.python.org/)
-[![Licença](https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge)](LICENSE)
+🔗 [![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=for-the-badge)]()
+
+🔗 [![Área](https://img.shields.io/badge/Tema-Telecomunicações_&_IoT-blue?style=for-the-badge)]()
+
+🔗 [![Linguagem](https://img.shields.io/badge/Linguagem-Python-blue?style=for-the-badge)](https://www.python.org/)
+
+🔗 [![Licença](https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge)](LICENSE)
 
 ## 📌 Descrição
-
-Este repositório reúne estudos e experimentos práticos envolvendo **redes de comunicação**, **tecnologias de telecomunicações** e sua aplicação em **Internet das Coisas (IoT)**. A proposta é explorar desde fundamentos como enlaces e modulação digital até aplicações com sensores, atuadores e protocolos de controle em ambientes distribuídos.
+- Este repositório reúne estudos e experimentos práticos envolvendo **redes de comunicação**, **tecnologias de telecomunicações** e sua aplicação em **Internet das Coisas (IoT)**. A proposta é explorar desde fundamentos como enlaces e modulação digital até aplicações com sensores, atuadores e protocolos de controle em ambientes distribuídos.
 
 > ⚠️ **Este projeto está em desenvolvimento.** Algumas funcionalidades podem estar incompletas ou sujeitas a mudanças.
 
