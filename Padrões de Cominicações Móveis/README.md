@@ -73,6 +73,8 @@ Análise das **arquiteturas de redes móveis** ao longo das **Releases do 3GPP**
 │   ├── arquitetura-lte.png
 │   └── evolucao-3gpp.png
 
+```
+
 ---
 
 - ## Return
