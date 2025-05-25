@@ -2,7 +2,7 @@
 
 🔗 [![Projeto](https://img.shields.io/badge/INATEL-Comunicação_por_Satélite-yellow?style=for-the-badge)](https://github.com/alfecjo/redes-telecom/tree/main/Comunica%C3%A7%C3%A3o%20por%20Sat%C3%A9lite)
 
-🔗 [![Área](https://img.shields.io/badge/INATEL-Padrões_de_Cominicações_Móveis-blue?style=for-the-badge)]()
+🔗 [![Área](https://img.shields.io/badge/INATEL-Padrões_de_Cominicações_Móveis-blue?style=for-the-badge)](https://github.com/alfecjo/redes-telecom/tree/main/Padr%C3%B5es%20de%20Cominica%C3%A7%C3%B5es%20M%C3%B3veis)
 
 🔗 [![Linguagem](https://img.shields.io/badge/Linguagem-Python-blue?style=for-the-badge)](https://www.python.org/)
 
