@@ -1,6 +1,6 @@
 # 📡 Rede & Telecom — Comunicação e IoT Aplicada 🌐📡
 
-🔗 [![Projeto](https://img.shields.io/badge/INATEL-Comunicação_por_Satélite-yellow?style=for-the-badge)]()
+🔗 [![Projeto](https://img.shields.io/badge/INATEL-Comunicação_por_Satélite-yellow?style=for-the-badge)](https://github.com/alfecjo/redes-telecom/tree/main/Comunica%C3%A7%C3%A3o%20por%20Sat%C3%A9lite)
 
 🔗 [![Área](https://img.shields.io/badge/Tema-Telecomunicações_&_IoT-blue?style=for-the-badge)]()
 
